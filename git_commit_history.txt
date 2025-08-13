@@ -1,0 +1,5 @@
+0baab67 - Dev1: Added different welcome.html (globaluser, 2025-08-13)
+5e77164 - Dev2: Added feature file (globaluser, 2025-08-13)
+f76d423 - Main: Updated welcome.html (globaluser, 2025-08-13)
+175edb1 - Dev1: Updated welcome.html differently (globaluser, 2025-08-13)
+36e0c02 - Merge conflict resolved (globaluser, 2025-08-13)
