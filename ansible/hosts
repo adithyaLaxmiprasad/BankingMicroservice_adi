@@ -1,2 +1,2 @@
 [webservers]
-10.10.25.92
+10.10.25.92 ansible_user=ubuntu ansible_ssh_private_key_file=~/.ssh/id_rsa
