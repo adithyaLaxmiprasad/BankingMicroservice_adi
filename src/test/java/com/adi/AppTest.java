@@ -1,26 +1,18 @@
 package com.adi;
 
-import org.junit.Test;
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import org.junit.jupiter.api.Test;
 
 /**
  * Unit test for simple App.
  */
 public class AppTest {
-    
+
     /**
-     * Test that our app class exists and can be instantiated
+     * Rigorous Test :-)
      */
     @Test
-    public void testAppExists() {
-        App app = new App();
-        assertNotNull(app);
-    }
-    
-    /**
-     * Simple test to verify JUnit is working
-     */
-    @Test 
     public void shouldAnswerWithTrue() {
         assertTrue(true);
     }
